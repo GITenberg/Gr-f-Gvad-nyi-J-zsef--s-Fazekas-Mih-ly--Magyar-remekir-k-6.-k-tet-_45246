@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43168
     wikipedia: http://hu.wikipedia.org/wiki/N%C3%A9gyesy_L%C3%A1szl%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45246#Gr-f-Gvad-nyi-J-zsef--s-Fazekas-Mih-ly--Magyar-remekir-k-6.-k-tet-
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
