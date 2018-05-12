@@ -1,0 +1,43 @@
+_repo: Gr-f-Gvad-nyi-J-zsef--s-Fazekas-Mih-ly--Magyar-remekir-k-6.-k-tet-_45246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gvadányi, József, gróf
+    alias: Gvadanyi, Jozsef, grof
+    birthdate: 1725
+    deathdate: 1801
+    gutenberg_agent_id: '43166'
+    url: http://www.gutenberg.org/2009/agents/43166
+    wikipedia: http://hu.wikipedia.org/wiki/Gvad%C3%A1nyi_J%C3%B3zsef
+  - agent_name: Fazekas, Mihály
+    alias: Fazekas, Mihaly
+    birthdate: 1766
+    deathdate: 1828
+    gutenberg_agent_id: '43167'
+    url: http://www.gutenberg.org/2009/agents/43167
+    wikipedia: http://hu.wikipedia.org/wiki/Fazekas_Mih%C3%A1ly
+  editor:
+    agent_name: Négyesy, László
+    alias: Negyesy, Laszlo
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '43168'
+    url: http://www.gutenberg.org/2009/agents/43168
+    wikipedia: http://hu.wikipedia.org/wiki/N%C3%A9gyesy_L%C3%A1szl%C3%B3
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45246'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian poetry'
+title: Gróf Gvadányi József és Fazekas Mihály (Magyar remekirók 6. kötet)
+url: http://www.gutenberg.org/ebooks/45246
